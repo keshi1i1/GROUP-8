@@ -24,8 +24,6 @@ Deliverables:
 9. Security (Admin/Staff).
 10. Project documentation + slides.
 
-<hr>
-
 # Group 8: Developers
 1. Jester Von Resma
 2. Ron Cyrus Medina
