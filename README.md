@@ -1,4 +1,14 @@
 # Barangay Information &amp; Services System
+A database-driven system that stores and manages barangay records such as residents, households, certificates, officials, and community projects. The system aims to centralize barangay operations with automated processes for certificate issuance, resident data updates, and project monitoring.
+
+# Group 8: Developers
+
+1. Jester Von Resma
+2. Ron Cyrus Medina
+3. Frederick Rosales
+4. Mark Manabat
+5. Jhomari Gandionco
+6. Jhon Benedict Balawang
 
 Description:
 - Stores resident records, certificates, and project information.
@@ -25,10 +35,8 @@ Deliverables:
 9. Security (Admin/Staff).
 10. Project documentation + slides.
 
-
 # Documentation
 [Full documentation here](https://docs.google.com/document/d/1DUiw2OXdhw_VdItf74Sa_3e5d3riC_VzFfT3B6QyvdQ/edit?usp=sharing)
-
 
 # How to Import SQL and Security
 
@@ -39,13 +47,3 @@ Deliverables:
 5. Go to the Import tab again, and choose the "security.sql" file.
 
 NOTE: Importing to WAMPP database, instead of XAMPP would result to an error in creating the table "projects" because of the difference of how "CHECK (date_end > date_start)" constraint is used.
-
-
-# Group 8: Developers
-
-1. Jester Von Resma
-2. Ron Cyrus Medina
-3. Frederick Rosales
-4. Mark Manabat
-5. Jhomari Gandionco
-6. Jhon Benedict Balawang
