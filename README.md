@@ -43,3 +43,4 @@ Deliverables:
 5. Go to the Import tab again, and choose the "security.sql" file.
 
 NOTE: Importing to WAMPP database, instead of XAMPP would result to an error in creating the table "projects" because of the difference of how "CHECK (date_end > date_start)" constraint is used.
+
