@@ -25,6 +25,11 @@ Deliverables:
 9. Security (Admin/Staff).
 10. Project documentation + slides.
 
+
+# Documentation
+<a src="https://docs.google.com/document/d/1DUiw2OXdhw_VdItf74Sa_3e5d3riC_VzFfT3B6QyvdQ/edit?usp=sharing"> here</a>
+
+
 # How to Import SQL and Security
 
 1. Download "barangay_information_system.sql" and "security.sql" files.
@@ -34,6 +39,7 @@ Deliverables:
 5. Go to the Import tab again, and choose the "security.sql" file.
 
 NOTE: Importing to WAMPP database, instead of XAMPP would result to an error in creating the table "projects" because of the difference of how "CHECK (date_end > date_start)" constraint is used.
+
 
 # Group 8: Developers
 
