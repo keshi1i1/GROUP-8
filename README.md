@@ -27,10 +27,19 @@ Deliverables:
 
 # How to Import SQL and Security
 
-1. Open XAMPP and initiate the local server.
-2. Create a database and select it.
-3. Go to the Import tab, and choose the "barangay_information_system.sql" file.
-4. Go to the Import tab again, and choose the "security.sql" file.
+1. Download "barangay_information_system.sql" and "security.sql" files.
+2. Open XAMPP and initiate the local server.
+3. Create a database and select it.
+4. Go to the Import tab, and choose the "barangay_information_system.sql" file.
+5. Go to the Import tab again, and choose the "security.sql" file.
 
-NOTE: Importing to WAMPP database, instead of XAMPP would result to an error in creating the table "projects"
-\nbecause of the difference of how "CHECK (date_end > date_start)" constraint is used.
+NOTE: Importing to WAMPP database, instead of XAMPP would result to an error in creating the table "projects" because of the difference of how "CHECK (date_end > date_start)" constraint is used.
+
+# Group 8: Developers
+
+1. Jester Von Resma
+2. Ron Cyrus Medina
+3. Frederick Rosales
+4. Mark Manabat
+5. Jhomari Gandionco
+6. Jhon Benedict Balawang
