@@ -44,3 +44,5 @@ Deliverables:
 
 NOTE: Importing to WAMPP database, instead of XAMPP would result to an error in creating the table "projects" because of the difference of how "CHECK (date_end > date_start)" constraint is used.
 
+
+
