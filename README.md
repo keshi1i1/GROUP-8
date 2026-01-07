@@ -27,7 +27,7 @@ Deliverables:
 
 
 # Documentation
-<a src="https://docs.google.com/document/d/1DUiw2OXdhw_VdItf74Sa_3e5d3riC_VzFfT3B6QyvdQ/edit?usp=sharing"> here</a>
+[Full documentation here](https://docs.google.com/document/d/1DUiw2OXdhw_VdItf74Sa_3e5d3riC_VzFfT3B6QyvdQ/edit?usp=sharing)
 
 
 # How to Import SQL and Security
